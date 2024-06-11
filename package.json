@@ -1,0 +1,27 @@
+{
+  "name": "resapi",
+  "version": "1.0.0",
+  "description": "Herramienta API Diseño y Desarrollo de servicios web - caso GA7-220501096-AA5-EV01 SENA - ADSO ficha 19 junio 2024",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "1234"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mickachau/REST_API.git"
+  },
+  "keywords": [
+    "rest"
+  ],
+  "author": "mickael",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mickachau/REST_API/issues"
+  },
+  "homepage": "https://github.com/mickachau/REST_API#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
